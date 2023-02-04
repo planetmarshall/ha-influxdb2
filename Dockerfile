@@ -1,0 +1,4 @@
+ARG BUILD_FROM
+FROM $BUILD_FROM
+ENV INFLUXD_CONFIG_PATH=/etc/influxdb2/configs
+COPY /rootfs /

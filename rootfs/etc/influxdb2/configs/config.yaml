@@ -1,0 +1,3 @@
+engine-path: /data/influxdb2/engine
+bolt-path: /data/influxdb2/influxd.bolt
+sqlite-path: /data/influxdb2/influxd.sqlite
